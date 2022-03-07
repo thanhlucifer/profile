@@ -1,1 +1,2 @@
-# profile
+# Thanhlucifer
+# Copyright by ngoctien.TNT
