@@ -422,4 +422,8 @@ a
 { 
     text-decoration: none;
     color: inherit; 
-} 
+}
+
+.hide {
+    display: none;
+}
